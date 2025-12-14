@@ -4061,7 +4061,6 @@ pc-in-f97.1e100.net
 peoplestack-pa.googleapis.com
 pf-in-f188.1e100.net
 pf-in-f81.1e100.net
-photobooth.flutter.dev
 photosdata-pa.googleapis.com
 phpjo3qe79.com
 picasa.com
@@ -6483,7 +6482,6 @@ android-cdn-client.fitbit.com
 android-cdn-softclient.fitbit.com
 android-client.fitbit.com
 android-softclient.fitbit.com
-api-lb.fitbit.com
 api-pro.fitbit.com
 api.fitbit.com
 app.plus.fitbit.com

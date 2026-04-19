@@ -4211,7 +4211,6 @@ r3---sn-8vap5-3c26.gvt1.com
 r3---sn-bpb5oxu-3c26.gvt1.com
 r3---sn-ci5gup-h556.gvt1.com
 r3---sn-ci5gup-jj06.gvt1.com
-r3---sn-cn3tc-ac56.gvt1.com
 r3---sn-ipoxu-un56.gvt1.com
 r3---sn-jtu5jt2g0n-aj56.gvt1.com
 r3---sn-ni57dn76.gvt1.com
@@ -6621,7 +6620,6 @@ outbound-proxy-webhooks-usc1-1-glob.fitbit.com
 outbound-proxy-webhooks-usc1-2-glob.fitbit.com
 pages.e.fitbit.com
 pages.fitbit.com
-partners.fitbit.com
 pkiv3.fitbit.com
 plus.fitbit.com
 proxy-webhooks-usc1-0-glob.fitbit.com
